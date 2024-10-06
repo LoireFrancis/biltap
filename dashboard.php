@@ -30,7 +30,7 @@ $conn->close();
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp" rel="stylesheet">
     <link rel="stylesheet" href="CSS/globals.css">
     <link rel="stylesheet" href="CSS/loggedout.css">
-    <title>Dashboard</title>
+    <title>Dashboards</title>
 </head>
 <style>
     .reminder-item {
